@@ -1,0 +1,289 @@
+id: ICF634683
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:14:39.013382'
+last_modified: '2022-06-17T11:14:39.013388'
+parser: null
+source_metadata:
+  title: Biography Series
+  language: fr
+  description: 'Translations of various namthar (rnam thar) or biographical and autobiographical
+    works:'
+  volume:
+    fA26D:
+      title: 'Radiant Sunlight of the Victors’ Teachings: A Brief, First-Hand Account
+        of the Liberating Life-Story of the Great Emanated Treasure Revealer'
+      base_file: fA26D.txt
+      order: 1
+      parent: Autobiography
+    f1B34:
+      title: A Short Story of the Life and Liberation of Jamyang Khyentse Chökyi Lodrö
+      base_file: f1B34.txt
+      order: 2
+      parent: Autobiography
+    f0D5F:
+      title: 'The Play of Illusion: An Autobiography'
+      base_file: f0D5F.txt
+      order: 3
+      parent: Autobiography
+    f3052:
+      title: A Brief Autobiographical Sketch
+      base_file: f3052.txt
+      order: 4
+      parent: Autobiography
+    fB393:
+      title: 'The Excellent Path of Devotion: An Abridged Story of a Mendicant’s Experiences
+        in Response to Questions from Vajra Kin'
+      base_file: fB393.txt
+      order: 5
+      parent: Autobiography
+    f14BA:
+      title: 'The Quintessence of Marvellous Nectar: A Prayer Based on the Liberational
+        Life of the Gentle Protector Guru'
+      base_file: f14BA.txt
+      order: 6
+      parent: Biographical Prayer
+    fDA4D:
+      title: 'The Hook Which Invokes the Blessings: A Supplication to the Life and
+        Liberation of Rigdzin Jalü Dorje'
+      base_file: fDA4D.txt
+      order: 7
+      parent: Biographical Prayer
+    fB111:
+      title: The Seeds of Faith, A Prayer to the Vidyādhara and Great Tertön Lerab
+        Lingpa
+      base_file: fB111.txt
+      order: 8
+      parent: Biographical Prayer
+    fB996:
+      title: 'The Melodious Sound of Gathering Auspiciousness: A Prayer Based on the
+        Liberational Life of the Omniscient Jamyang Khyentse Wangpo'
+      base_file: fB996.txt
+      order: 9
+      parent: Biographical Prayer
+    f178D:
+      title: The Prayer of the Tenth Days in Guru Rinpoche’s Life Story entitled ‘The
+        Nucleus of Blessings’
+      base_file: f178D.txt
+      order: 10
+      parent: Biographical Prayer
+    fE5E3:
+      title: 'The Tambura’s Yearning Song of Devotion: A Prayer Summarizing Khandro
+        Yeshe Tsogyal’s Life and Liberation'
+      base_file: fE5E3.txt
+      order: 11
+      parent: Biographical Prayer
+    fDEDD:
+      title: 'The Fresh Utpala: A Prayer to the Great Learned Teacher and Vajra-Holder
+        Jamyang Khyenrab Tayé'
+      base_file: fDEDD.txt
+      order: 12
+      parent: Biographical Prayer
+    f355F:
+      title: 'A Beautiful and Wondrous Udumbara Garland: A Supplication and Summary
+        of the Chronicles of Padma, The Life and Liberation of the Precious Guru of
+        Uḍḍiyāna'
+      base_file: f355F.txt
+      order: 13
+      parent: Biographical Prayer
+    f304F:
+      title: A Prayer Recalling the Life and Liberation of the Great Perfection Adept
+        Rangjung Dorje (‘Naturally Arisen Vajra’), Jigme Lingpa
+      base_file: f304F.txt
+      order: 14
+      parent: Biographical Prayer
+    f5F8C:
+      title: A Short Prayer Based on the Life and Liberation of the All-Knowing, All-Seeing
+        Jamyang Khyentse Wangpo
+      base_file: f5F8C.txt
+      order: 15
+      parent: Biographical Prayer
+    f61D1:
+      title: Prayer Recalling the Life and Liberation of the Mañjunātha Guru
+      base_file: f61D1.txt
+      order: 16
+      parent: Biographical Prayer
+    fA40A:
+      title: A Prayer Recalling the Life and Liberation of the Precious Master Padmasambhava
+      base_file: fA40A.txt
+      order: 17
+      parent: Biographical Prayer
+    fCAEF:
+      title: 'Cloud Banks of Blessings: A Prayer Recounting the Eleven Deeds of the
+        Life and Liberation of the Guru from Uḍḍiyāna'
+      base_file: fCAEF.txt
+      order: 18
+      parent: Biographical Prayer
+    fD3D9:
+      title: A Prayer Recounting the Lives and Liberation of the Exalted Ḍākinī Mandāravā
+      base_file: fD3D9.txt
+      order: 19
+      parent: Biographical Prayer
+    f501E:
+      title: 'Gateway for the Faithful: A Supplication Recalling the Lives and Liberation
+        of Kyabje Trulshik Rinpoche, Ngawang Chökyi Lodrö'
+      base_file: f501E.txt
+      order: 20
+      parent: Biographical Prayer
+    f1449:
+      title: 'The Hook of Blessing and Compassion: An Invocation Recalling Briefly
+        the Life and Liberation of the Drukchen Drodül Pawo Dorje, My Loving Supreme
+        Guru'
+      base_file: f1449.txt
+      order: 21
+      parent: Biography
+    f3866:
+      title: Biography of Jamgön Kongtrul Lodrö Thaye
+      base_file: f3866.txt
+      order: 22
+      parent: Biography
+    f44F8:
+      title: Biography of Jamyang Khyentse Wangpo
+      base_file: f44F8.txt
+      order: 23
+      parent: Biography
+    fB46E:
+      title: Biography of Patrul Rinpoche
+      base_file: fB46E.txt
+      order: 24
+      parent: Biography
+    f2623:
+      title: Biography of Shechen Gyaltsab Gyurme Pema Namgyal
+      base_file: f2623.txt
+      order: 25
+      parent: Biography
+    fA9B6:
+      title: Brief Biography of Drakkar Lobzang Palden
+      base_file: fA9B6.txt
+      order: 26
+      parent: Biography
+    f788F:
+      title: Brief Biography of Kharlek Tulku Pema Kunzang Rangdrol
+      base_file: f788F.txt
+      order: 27
+      parent: Biography
+    f77F8:
+      title: Brief Biography of Tāranātha
+      base_file: f77F8.txt
+      order: 28
+      parent: Biography
+    f866B:
+      title: 'The Wish-Fulfilling Tree: The Life Story of the Master of Uḍḍiyāna
+        as found in Padmasambhava’s Sevenfold Cycle of Profundity'
+      base_file: f866B.txt
+      order: 29
+      parent: Biography
+    fA944:
+      title: 'Wondrous Light of Lunar Nectar: The Biography of Chatral Kunga Palden,
+        a Yogin of the Supreme Vehicle'
+      base_file: fA944.txt
+      order: 30
+      parent: Biography
+    f4BB5:
+      title: In Praise of Sönam Palge
+      base_file: f4BB5.txt
+      order: 31
+      parent: Biography
+    fC146:
+      title: The Biography of the Great Orgyen that Naturally Liberates On Sight
+      base_file: fC146.txt
+      order: 32
+      parent: Biography
+    fF80E:
+      title: The Concise Benefits of the Festival of the Tenth Day
+      base_file: fF80E.txt
+      order: 33
+      parent: Biography
+    f37C3:
+      title: 'Precise Discernment of Dharmas: A Catalogue of the Complete Collected
+        Works of the Omniscient King of Dharma, Rigdzin Jigme Lingpa'
+      base_file: f37C3.txt
+      order: 34
+      parent: Biography
+    fAE85:
+      title: 'A Bouquet of Uḍumbara Flowers: An Explanation of the Tenth Day'
+      base_file: fAE85.txt
+      order: 35
+      parent: Biography
+    f2089:
+      title: 'A Garland of Vajra Gems: The Life and Liberation of the Guru'
+      base_file: f2089.txt
+      order: 36
+      parent: Biography
+    fD374:
+      title: The Life and Liberation of Padmākara, the Second Buddha from A Precious
+        Garland of Lapis Lazuli
+      base_file: fD374.txt
+      order: 37
+      parent: Biography
+    fDBA4:
+      title: Brief Biography of Gyurme Jamyang Tenpel from Supplementary Biographies
+        for the Lineage of the Ḍākinī’s Whispered Transmission of Secret Conduct
+      base_file: fDBA4.txt
+      order: 38
+      parent: Biography
+    fC6F5:
+      title: Notes on Chögyal Puntsok Rigdzin and Lhatsün Namkha Jigme’s Incarnations
+      base_file: fC6F5.txt
+      order: 39
+      parent: Biography
+    fBDEA:
+      title: The Life of Khenpo Pema Vajra
+      base_file: fBDEA.txt
+      order: 40
+      parent: Biography
+    fA4BF:
+      title: Biography of Böpa Tulku Dongak Tenpé Nyima
+      base_file: fA4BF.txt
+      order: 41
+      parent: Biography
+    f73B9:
+      title: 'Light on the Path of Liberation: The Life of the Second Buddha Vasubandhu'
+      base_file: f73B9.txt
+      order: 42
+      parent: Biography
+    f97CB:
+      title: Biography of Dzogchen Khenchen Abu Lhagang
+      base_file: f97CB.txt
+      order: 43
+      parent: Biography
+    f409A:
+      title: A Concise History of Orgyen Padma’s Enlightened Deeds
+      base_file: f409A.txt
+      order: 44
+      parent: Biography
+    f8D59:
+      title: The Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: f8D59.txt
+      order: 45
+      parent: Biography
+    fA735:
+      title: The Life of Jamyang Khyentse Wangpo
+      base_file: fA735.txt
+      order: 46
+      parent: Biography
+    f2C0C:
+      title: 'Three Reasons for Confidence: A Work Telling the Life and Liberation
+        Story of the Great Master Padmākara'
+      base_file: f2C0C.txt
+      order: 47
+      parent: Biography
+    f6EB0:
+      title: A Tribute to Tsewang Paljor
+      base_file: f6EB0.txt
+      order: 48
+      parent: Obituary
+    f208A:
+      title: 'Offering the Flowers of Remembered Kindness: In Praise of the Gracious
+        Teacher, Khen Rinpoche Kunpal'
+      base_file: f208A.txt
+      order: 49
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
